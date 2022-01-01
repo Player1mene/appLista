@@ -29,6 +29,12 @@ header {
     margin: 15px 0;
 }
 
+.registro-lista input[type=number] {
+    width: 50%;
+    padding: 15px 2%;
+    margin: 15px 0;
+}
+
 .registro-lista input[type=submit] {
     cursor: pointer;
     padding: 5px;
@@ -53,4 +59,11 @@ header {
     padding: 2%;
     border-radius: 100px;
     color: white;
+}
+
+
+button[name=limpar]{
+    cursor: pointer;
+    margin: 20px;
+    padding: 15px;
 }
